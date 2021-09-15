@@ -1,5 +1,4 @@
 # section-6-Bootstrap-Nurperi
-http://127.0.0.1:5500/index.html#pricing
 ![tnw](https://user-images.githubusercontent.com/88156651/133459569-4697306a-e45b-4896-b5ca-a87fbd099c3e.png)
 ![tc](https://user-images.githubusercontent.com/88156651/133459573-d99dd615-b612-40bd-b388-f259aba4e599.jpg)
 ![bizinsider](https://user-images.githubusercontent.com/88156651/133459576-f0b52139-a9ef-413a-b4d9-1cdb62ee0efe.png)

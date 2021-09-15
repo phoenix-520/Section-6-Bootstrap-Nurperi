@@ -1,2 +1,6 @@
-# section-6-Bootstrap-Nurperi
-
+![tc](https://user-images.githubusercontent.com/88156651/133464707-2f4ba029-4a43-44c0-844c-75281305c9f3.jpg)
+![bizinsider](https://user-images.githubusercontent.com/88156651/133464709-75a220b0-7d8f-45e1-b85a-4ca67a166ece.png)
+![dog-img (1)](https://user-images.githubusercontent.com/88156651/133464713-a3eb218b-73f4-4ad3-a7eb-33b538c87f94.jpg)
+![lady-img (1)](https://user-images.githubusercontent.com/88156651/133464723-26282bc9-55e6-4149-aa91-801e24807e24.jpg)
+![iphone6](https://user-images.githubusercontent.com/88156651/133464727-e2c105e0-a937-4c89-acd8-106eb711a368.png)
+![tnw](https://user-images.githubusercontent.com/88156651/133464731-05dcacdc-7029-4b24-8b81-a7be75a85d39.png)
